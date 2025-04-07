@@ -15,8 +15,8 @@
 |---------------|--------|------------|
 | `João Pedro de Oliveira Martins` | `Ciências da Computação` | `Programação de software básico em C` |
 | `Luiz Henrique dos Santos` | `Ciências da Computação` | `Programação de software básico em C` |
-| `Sofia Medeiros Barreto de Lima` | `Ciências da Computação` | `Programação de sofware básico em C` |
-| `Leticia Novaes Antunes` | `Ciências da Computação` | `Programação de sotware básico em C` |
+| `Sofia Medeiros Barreto de Lima` | `Ciências da Computação` | `Programação de software básico em C` |
+| `Leticia Novaes Antunes` | `Ciências da Computação` | `Programação de software básico em C` |
 
 
 **Professor Orientador:** `Kesede Rodrigues Junior`
