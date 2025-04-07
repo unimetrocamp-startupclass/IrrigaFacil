@@ -43,11 +43,79 @@
 
 ## 4. Backlogs do Produto
 
-> **Dica:** Expanda os requisitos levantados junto ao cliente e equipe de desenvolvimento, explicando brevemente cada um.
+**1. Definir Requisitos do Sistema**
+- **Descrição**: Levantar e documentar os requisitos específicos do cliente, como tipos de plantas, condições ideais de umidade e temperatura.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Análise e Requisitos
+
+**2. Escolha de Sensores**
+- **Descrição**: Selecionar sensores de umidade e temperatura adequados para o tipo de planta e ambiente.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Hardware
+
+**3. Projeto do Circuito e Integração com Arduino**
+- **Descrição**: Desenhar o circuito para conectar os sensores ao Arduino e programar a leitura dos dados.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Engenharia de Hardware
+
+**4. Desenvolvimento do Algoritmo de Irrigação**
+- **Descrição**: Criar o algoritmo que controle a irrigação de acordo com os dados de umidade e temperatura. O algoritmo deve acionar a irrigação quando os valores de umidade do solo estiverem abaixo de um limite pré-determinado.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Software
+
+**5. Desenvolvimento da Interface de Controle (Opcional)**
+- **Descrição**: Criar uma interface (aplicativo ou painel web) para o cliente monitorar e ajustar os parâmetros de irrigação e clima.
+- **Prioridade**: Média
+- **Responsável**: Equipe de Software (Front-end/Back-end)
+
+**6. Testes de Integração**
+- **Descrição**: Realizar testes de integração para garantir que os sensores, o Arduino e o sistema de irrigação funcionem em conjunto.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Qualidade
+
+**7. Calibração dos Sensores**
+- **Descrição**: Calibrar os sensores de temperatura e umidade para garantir leituras precisas.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Engenharia de Hardware
+
+**8. Implementação do Sistema de Irrigação Automática**
+- **Descrição**: Instalar e configurar os sistemas de irrigação automatizados nas plantações.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Implementação
+
+**9. Testes no Campo**
+- **Descrição**: Testar o sistema no campo, verificando a eficácia da irrigação e a manutenção dos parâmetros ideais de temperatura e umidade.
+- **Prioridade**: Alta
+- **Responsável**: Equipe de Qualidade
+
+**10. Ajustes e Otimizações**
+- **Descrição**: Realizar ajustes no algoritmo de irrigação e no hardware conforme resultados dos testes no campo.
+- **Prioridade**: Média
+- **Responsável**: Equipe de Engenharia de Software e Hardware
+
+**11. Documentação e Treinamento**
+- **Descrição**: Criar a documentação do sistema e fornecer treinamento para o cliente sobre como utilizar o sistema de irrigação automatizado.
+- **Prioridade**: Média
+- **Responsável**: Equipe de Suporte
+---
 
 ## 5. Cronograma
 
-> **Dica:** Insira uma imagem ou tabela com o planejamento do projeto (atividades e datas).
+# Cronograma do Projeto
+
+| **Tarefa**                                           | **Duração** | **Semana** |
+|------------------------------------------------------|-------------|------------|
+| **1. Definir Requisitos do Sistema**                 | 1 semana    | Semana 1   |
+| **2. Escolha de Sensores**                           | 1 semana    | Semana 1   |
+| **3. Projeto do Circuito e Integração com Arduino**  | 2 semanas   | Semana 2-3 |
+| **4. Desenvolvimento do Algoritmo de Irrigação**     | 2 semanas   | Semana 3-4 |
+| **5. Desenvolvimento da Interface de Controle**      | 2 semanas   | Semana 4-5 |
+| **6. Testes de Integração**                          | 1 semana    | Semana 5-6 |
+| **7. Calibração dos Sensores**                       | 1 semana    | Semana 6   |
+| **8. Implementação do Sistema de Irrigação Automática** | 2 semanas | Semana 6-7 |
+| **9. Testes no Campo**                               | 1 semana    | Semana 7   |
+| **10. Ajustes e Otimizações**                        | 1 semana    | Semana 8   |
+| **11. Documentação e Treinamento**                   | 1 semana    | Semana 8   |
 
 ## 6. Materiais e Métodos
 
