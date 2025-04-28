@@ -118,22 +118,42 @@
 | **11. Documentação e Treinamento**                   | 1 semana    | Semana 8   |
 
 ## 6. Materiais e Métodos
-
+<ul>
+  <li>1 Arduino Uno R3 + Cabo USB;</li>
+  <li>1 Sensor de Umidade de Solo para Arduino;</li>
+  <li>1 Mini Bomba de Água (d’água) para Arduino RS-385;</li>
+  <li>1 Módulo Relé 5V 10A 1 Canal com Optoacoplador;</li>
+  <li>1 Fonte de Alimentação Chaveada 12VDC 1A;</li>
+  <li>1 Fonte de Alimentação para Arduino 9VDC 1A;</li>
+  <li>1 Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm);</li>
+  <li>½ Metro de Fio Paralelo 0,5mm;</li>
+  <li>1,5 Metros de Mangueira para Aquário;</li>
+  <li>Jumpers.</li>
+</ul>
 ### Modelagem do sistema
 
-> **Dica:** Inclua pelo menos dois diagramas UML, como Caso de Uso, Diagrama de Classes ou MER.
+**Diagrama de Caso de Uso:** Mostrando as interações entre o cliente e o sistema de irrigação (ativar/desativar irrigação automática, ver status do solo).
+
+**Diagrama de Classes:** Representando classes como Sensor de Umidade, Bomba d'Água, Sistema de Controle.
 
 ### Tecnologias utilizadas
 
 
 <ul>
-  <li>Linguagem principal do dispositivo: C++</li> 
-  
+  <li>**Linguagem principal do dispositivo:** C++</li> 
+  <li>**Hardware:** Arduino</li>
 </ul>
 
 ### Arquitetura do sistema
 
-> **Dica:** Insira um diagrama mostrando a arquitetura do sistema e o fluxo de informações.
+<ul>
+  <li>O <strong>Sensor de Umidade do Solo</strong> realiza a medição da umidade e envia os dados ao <strong>Arduino Uno</strong>.</li>
+  <li>O <strong>Arduino Uno</strong> interpreta as informações recebidas e compara com um valor de umidade previamente configurado.</li>
+  <li>Se a umidade estiver abaixo do nível ideal, o Arduino envia um sinal ao <strong>Módulo Relé 5V</strong>.</li>
+  <li>O <strong>Módulo Relé</strong> aciona a <strong>Bomba d'Água RS-385</strong>, iniciando o bombeamento da água através da mangueira até o solo.</li>
+  <li>A irrigação ocorre até que a umidade do solo atinja ou ultrapasse o valor definido como ideal.</li>
+  <li>Quando o solo atinge a umidade adequada, o Arduino desativa o relé, desligando a bomba de água automaticamente.</li>
+</ul>
 
 ## 7. Resultados
 
@@ -149,11 +169,26 @@
 
 ### Impacto do sistema
 
-> **Dica:** Descreva as melhorias trazidas ao processo do cliente.
+- Consumo mais equilibrado de água
+
+- Produtividade da horta
+
+- Redução de mão de obra humana
+
+- Custo-benefício da instalação
+
 
 ### Melhorias Futuras
 
-> **Dica:** Liste pelo menos uma melhoria que poderá ser implementada futuramente.
+<ul>
+  <li>Utilizar sensores de umidade múltiplos em diferentes pontos do solo para obter leituras mais precisas.</li>
+  <li>Integrar um sensor de chuva para evitar irrigação desnecessária em dias chuvosos.</li>
+  <li>Programar o sistema para irrigar em horários específicos</li>
+  <li>Acrescentar um sistema de alarme para alertar falhas, como bomba inoperante ou falta de água no reservatório.</li>
+  <li>Desenvolver um aplicativo mobile simples para configuração, monitoramento e controle manual do sistema.</li>
+  <li>Proteger toda a eletrônica com caixas vedadas para uso em ambientes externos.</li>
+</ul>
+
 
 ## 9. Homologação do MVP junto ao cliente
 
