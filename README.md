@@ -132,19 +132,23 @@
 </ul>
 ### Modelagem do sistema
 
-**Diagrama de Caso de Uso:** Mostrando as interações entre o cliente e o sistema de irrigação (ativar/desativar irrigação automática, ver status do solo).
+ **Dica:** Inclua pelo menos dois diagramas UML, como Caso de Uso, Diagrama de Classes ou MER.
 
 **Diagrama de Classes:** Representando classes como Sensor de Umidade, Bomba d'Água, Sistema de Controle.
 
-### Tecnologias utilizadas
+![image](https://github.com/user-attachments/assets/4c52cd71-02f7-4302-b297-9cdbdcd950ca)
 
+
+### Tecnologias utilizadas
 
 <ul>
   <li>**Linguagem principal do dispositivo:** C++</li> 
-  <li>**Hardware:** Arduino</li>
+  <li>IDE: VS Code
+  <li>**Hardware:** Arduino Uno, Mini Bomba D'Agua, Jumper, Fonte de Alimentação, Moódulo Relé</li>
 </ul>
 
 ### Arquitetura do sistema
+![image](https://github.com/user-attachments/assets/953ce7f5-8069-4913-9621-e59e3eb10de9)
 
 <ul>
   <li>O <strong>Sensor de Umidade do Solo</strong> realiza a medição da umidade e envia os dados ao <strong>Arduino Uno</strong>.</li>
