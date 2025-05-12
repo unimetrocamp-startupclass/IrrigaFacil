@@ -210,7 +210,7 @@ Construir um circuito com Arduino e sensor de umidade do solo, desenvolver o có
 
 ### LinkedIn do Projeto
 
-> **Dica:** Crie uma página do LinkedIn para o projeto, contendo um resumo, nome dos integrantes e professor-orientador. Insira o link aqui.
+https://www.linkedin.com/in/me/
 
 ### Seminário de Projetos de Software
 
