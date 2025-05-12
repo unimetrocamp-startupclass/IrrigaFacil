@@ -22,16 +22,17 @@
 **Professor Orientador:** `Kesede Rodrigues Junior`
 
 ## 1. Introdução
-
-**O cliente tem um problema em realizar e manter uma regularidade na irrigação da suas plantas. Identificando esse problema, uma das formas para solucionar esse problema é na criação de sistema Iot que irá realizar a irrgação regular, também irá manter sempre a umidade e temperatura do solo da plantação controlada. Esse projeto irá utilizar um arduino, sensores de temperatura e umidade para realizarem o controle da plantação. Visamos facilitar a vida da nossa cliente e manter a sua plantação sempre cuidada.**
+**Com o avanço diário da tecnologia, cada vez mais surgem formas de tornar o dia a dia das pessoas mais prático e eficiente. A irrigação automática é uma dessas soluções. Apesar de ainda não ser amplamente utilizada em áreas residenciais, pensar em sistemas de irrigação menores e voltados exclusivamente para esse público pode trazer significativa praticidade às rotinas corridas, além de contribuir para a economia de água.
+Segundo  Andrade (2001), "o interesse pela irrigação, no Brasil, emerge nas mais variadas condições de clima, solo, cultura e socioeconomia. Não existe um sistema de irrigação ideal, capaz de atender satisfatoriamente todas essas condições e interesses envolvidos. Em consequência, deve-se selecionar o sistema de irrigação mais adequado para uma certa condição e para atender os objetivos desejados".
+Diante disso, este projeto tem como objetivo desenvolver um sistema simples e de baixo custo, voltado à irrigação automatizada em pequena escala, com foco em residências, a fim de auxiliar nosso cliente  e moradores de áreas domésticas no cuidado com suas plantas, na regularidade da irrigaçaõ e promovendo o uso consciente da água.**
 
 ## 2. Objetivo
 
-## 2.1 Geral
-**Desenvolver um sistema de irrigação automática.**
+**2.1 Geral**
+Desenvolver um sistema de irrigação automática.
 
-## 2.2 Específicos
-**Construir um circuito com Arduino e sensor de umidade do solo, desenvolver o código em linguagem C para interpretar os dados do sensor, implementar uma rotina automatizada que aciona a irrigação somente quando o solo estiver seco, além de testar o sistema em diferentes condições para garantir seu funcionamento eficiente e sustentável, promovendo o uso racional de água e energia.**
+**2.2 Específicos**
+Construir um circuito com Arduino e sensor de umidade do solo, desenvolver o código em linguagem C para interpretar os dados do sensor, implementar uma rotina automatizada que aciona a irrigação somente quando o solo estiver seco, além de testar o sistema em diferentes condições para garantir seu funcionamento eficiente e sustentável, promovendo o uso racional de água e energia.
 
 
 ## 3. Escopo
@@ -228,5 +229,11 @@ Texto padrão para autorização da participação do cliente no projeto.
 ## 13. Relato individual do processo
 
 Cada integrante deve escrever um breve relato sobre sua experiência no projeto.
+
+## 14. Referências
+
+**ANDRADE, Camilo de Lelis Teixeira de. Irrigação: situação atual e perspectivas. Sete Lagoas, MG: Embrapa Milho e Sorgo, 2001. ISSN 1679-1150.**
+
+
 
 ---
