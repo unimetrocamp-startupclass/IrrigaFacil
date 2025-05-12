@@ -27,7 +27,12 @@
 
 ## 2. Objetivo
 
-**Criar uma rotina para regar as plantas e um controle de temperatura e umidadde do solo.**
+## 2.1 Geral
+**Desenvolver um sistema de irrigação automática.**
+
+## 2.2 Específicos
+**Construir um circuito com Arduino e sensor de umidade do solo, desenvolver o código em linguagem C para interpretar os dados do sensor, implementar uma rotina automatizada que aciona a irrigação somente quando o solo estiver seco, além de testar o sistema em diferentes condições para garantir seu funcionamento eficiente e sustentável, promovendo o uso racional de água e energia.**
+
 
 ## 3. Escopo
 
