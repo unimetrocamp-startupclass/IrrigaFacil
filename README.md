@@ -22,16 +22,18 @@
 **Professor Orientador:** `Kesede Rodrigues Junior`
 
 ## 1. Introdução
-**Com o avanço diário da tecnologia, cada vez mais surgem formas de tornar o dia a dia das pessoas mais prático e eficiente. A irrigação automática é uma dessas soluções. Apesar de ainda não ser amplamente utilizada em áreas residenciais, pensar em sistemas de irrigação menores e voltados exclusivamente para esse público pode trazer significativa praticidade às rotinas corridas, além de contribuir para a economia de água.
+Com o avanço diário da tecnologia, cada vez mais surgem formas de tornar o dia a dia das pessoas mais prático e eficiente. A irrigação automática é uma dessas soluções. Apesar de ainda não ser amplamente utilizada em áreas residenciais, pensar em sistemas de irrigação menores e voltados exclusivamente para esse público pode trazer significativa praticidade às rotinas corridas, além de contribuir para a economia de água.
+
 Segundo  Andrade (2001), "o interesse pela irrigação, no Brasil, emerge nas mais variadas condições de clima, solo, cultura e socioeconomia. Não existe um sistema de irrigação ideal, capaz de atender satisfatoriamente todas essas condições e interesses envolvidos. Em consequência, deve-se selecionar o sistema de irrigação mais adequado para uma certa condição e para atender os objetivos desejados".
-Diante disso, este projeto tem como objetivo desenvolver um sistema simples e de baixo custo, voltado à irrigação automatizada em pequena escala, com foco em residências, a fim de auxiliar nosso cliente  e moradores de áreas domésticas no cuidado com suas plantas, na regularidade da irrigaçaõ e promovendo o uso consciente da água.**
+
+Diante disso, este projeto tem como objetivo desenvolver um sistema simples e de baixo custo, voltado à irrigação automatizada em pequena escala, com foco em residências, a fim de auxiliar nosso cliente  e moradores de áreas domésticas no cuidado com suas plantas, na regularidade da irrigaçaõ e promovendo o uso consciente da água.
 
 ## 2. Objetivo
 
-**2.1 Geral**
+## 2.1 Geral
 Desenvolver um sistema de irrigação automática.
 
-**2.2 Específicos**
+## 2.2 Específicos
 Construir um circuito com Arduino e sensor de umidade do solo, desenvolver o código em linguagem C para interpretar os dados do sensor, implementar uma rotina automatizada que aciona a irrigação somente quando o solo estiver seco, além de testar o sistema em diferentes condições para garantir seu funcionamento eficiente e sustentável, promovendo o uso racional de água e energia.
 
 
