@@ -171,11 +171,16 @@ Construir um circuito com Arduino e sensor de umidade do solo, desenvolver o có
 
 ### Protótipo
 
-> **Dica:** Apresente prints das telas do sistema, com descrição das ações possíveis e reações do sistema.
+![image](https://github.com/user-attachments/assets/e9215572-15d5-4c70-a372-8b73d394701b)
+
 
 ### Códigos das principais funcionalidades
 
-> **Dica:** Inclua trechos de código relevantes, com comentários explicativos.
+![image](https://github.com/user-attachments/assets/11c973f9-2f12-49b3-8a5f-309f620f061b)
+
+lê um sensor de umidade de solo, exibe o valor num display LCD 16×2, acende um LED verde e liga um motor/bomba d’água quando a umidade fica abaixo de um limiar (40 %).
+A lógica se repete a cada segundo.
+
 
 ## 8. Conclusão
 
@@ -214,19 +219,21 @@ https://www.linkedin.com/in/me/
 
 ### Seminário de Projetos de Software
 
-> **Dica:** Grave um vídeo da apresentação, publique no LinkedIn e adicione o link. Inclua fotos do evento.
+Link para o post no linkedin:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7332820088988823552/
 
 ### FENETEC: Feira de Negócios em Tecnologia
 
-> **Dica:** Insira fotos do evento e um link para um vídeo da apresentação.
+> **Dica:** Grave um vídeo da apresentação, publique no LinkedIn e adicione o link. Inclua fotos do evento.
 
 ## 11. Carta de Apresentação
 
-Texto padrão para apresentar o projeto à empresa parceira.
+Arquivo no drive: https://drive.google.com/file/d/1oU16KkrW54kp2vXOD8JkllyjxyIxozMU/view?usp=drive_link
 
 ## 12. Carta de Autorização
 
-Texto padrão para autorização da participação do cliente no projeto.
+Arquivo no drive: https://drive.google.com/file/d/1TZ-uX8QsYpyjZCRqQ840V70g4YFrJ8YH/view?usp=drive_link
 
 ## 13. Relato individual do processo
 
