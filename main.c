@@ -25,7 +25,6 @@ void loop() {
   } else {
     digitalWrite(motor, LOW);
     digitalWrite(LedVerde, LOW);
-    LCD.print("OFF");
   }
 
   delay(1000);
