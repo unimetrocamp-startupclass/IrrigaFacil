@@ -226,6 +226,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7332820088988823552/
 ### FENETEC: Feira de Negócios em Tecnologia
 
 > **Dica:** Grave um vídeo da apresentação, publique no LinkedIn e adicione o link. Inclua fotos do evento.
+> **BAnner - https://www.canva.com/design/DAGokyxmvkU/MEStgFQ2cVe9P5WpudeTvA/edit?utm_content=DAGokyxmvkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
 
 ## 11. Carta de Apresentação
 
